@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ract-App-on-Formik-and-Yup/static/css/main.e6c13ad2.css",
+    "main.js": "/Ract-App-on-Formik-and-Yup/static/js/main.a9d145b8.js",
+    "static/js/453.4b5c5560.chunk.js": "/Ract-App-on-Formik-and-Yup/static/js/453.4b5c5560.chunk.js",
+    "index.html": "/Ract-App-on-Formik-and-Yup/index.html",
+    "main.e6c13ad2.css.map": "/Ract-App-on-Formik-and-Yup/static/css/main.e6c13ad2.css.map",
+    "main.a9d145b8.js.map": "/Ract-App-on-Formik-and-Yup/static/js/main.a9d145b8.js.map",
+    "453.4b5c5560.chunk.js.map": "/Ract-App-on-Formik-and-Yup/static/js/453.4b5c5560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a9d145b8.js"
+  ]
+}
